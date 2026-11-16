@@ -1,2 +1,2 @@
-# Davesidemusic-cloud-engineering-journey-A-professional-learning-and-project-portfolio
+# cloud-engineering-journey
 My journey into cloud engineering, programming, Linux, automation and cloud infrastructure
